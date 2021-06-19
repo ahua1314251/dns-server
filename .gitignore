@@ -1,0 +1,7 @@
+/target/
+*.project
+*.class
+/.settings/
+.classpath
+/mo
+.idea/
